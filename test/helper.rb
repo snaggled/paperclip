@@ -1,3 +1,5 @@
+require File.dirname(__FILE__) + "/../../../../config/environment.rb"
+
 require 'rubygems'
 require 'test/unit'
 require 'shoulda'
